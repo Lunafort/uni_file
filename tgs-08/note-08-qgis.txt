@@ -1,0 +1,9 @@
+679097 | 9115349
+692878 | 9115292
+692818 | 9101467
+679042 | 9101524
+
+plugins-quickmaps-metasearch-klik kanan(poroperties)-overlay
+centrapeta.com
+
+geo-desult-kecamatan-symbol label-kecamatan	
